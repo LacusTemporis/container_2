@@ -4,7 +4,6 @@ export class ErrorRepository {
         [404, 'Not Found'],
         [500, 'Internal Server Error'],
         [401, 'Unauthorized'],
-        // Добавьте другие ошибки по необходимости
       ]);
     }
   
